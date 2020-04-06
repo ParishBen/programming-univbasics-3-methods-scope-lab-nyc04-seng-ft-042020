@@ -12,8 +12,10 @@ def link
   puts "It's Dangerous To Go Alone! Take This."
 end
 
-def all_phrases(argu)
+def all_phrases(yellow)
 phrase = "It's-a me, Mario!"
-puts phrase
-phrase
+yellow = phrase
+puts yellow
+yellow
+
 end
