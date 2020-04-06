@@ -14,5 +14,7 @@ end
 
 def all_phrases(mario)
 puts mario
+puts link
+puts toadstool
 end
 
