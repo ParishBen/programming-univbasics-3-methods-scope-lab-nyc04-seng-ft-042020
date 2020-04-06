@@ -13,6 +13,6 @@ def link
 end
 
 def all_phrases(argu)
-argu= "It's-a me, Mario!"
-puts argu
+phrase = "It's-a me, Mario!"
+puts phrase
 end
