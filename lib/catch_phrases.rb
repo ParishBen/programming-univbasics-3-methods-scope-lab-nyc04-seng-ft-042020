@@ -13,7 +13,7 @@ def link
 end
 
 def all_phrases(one)
-case toadstool
+case one
   puts "Thank You Mario! But Our Princess Is In Another Castle!"
    one == link
   puts "It's Dangerous To Go Alone! Take This."
