@@ -13,9 +13,9 @@ def link
 end
 
 def all_phrases(one)
-if one == toadstool
+case toadstool
   puts "Thank You Mario! But Our Princess Is In Another Castle!"
-  elsif one == link
+   one == link
   puts "It's Dangerous To Go Alone! Take This."
 else
   puts "It's-a me, Mario!"
