@@ -15,5 +15,5 @@ end
 def all_phrases(yellow)
 phrase = 'Thank You Mario! But Our Princess Is In Another Castle!'
 yellow = phrase
-puts yellow
+puts phrase
 end
