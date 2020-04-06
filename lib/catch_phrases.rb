@@ -14,8 +14,9 @@ end
 
 def all_phrases(one)
 case one
-  puts "Thank You Mario! But Our Princess Is In Another Castle!"
-   one == link
+  when toadstool
+    puts "Thank You Mario! But Our Princess Is In Another Castle!"
+   when link
   puts "It's Dangerous To Go Alone! Take This."
 else
   puts "It's-a me, Mario!"
