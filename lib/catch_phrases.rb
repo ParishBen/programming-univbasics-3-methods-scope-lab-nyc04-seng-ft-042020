@@ -14,9 +14,13 @@ end
 
 def all_phrases(one,two,three)
   one ="It's-a me, Mario!"
+  two = "Thank You Mario! But Our Princess Is In Another Castle!"
+  three = "It's Dangerous To Go Alone! Take This."
   puts one
   puts two
   puts three
-  one + two + three
+  one
+  two 
+  three
 end
 
