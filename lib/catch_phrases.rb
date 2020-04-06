@@ -17,6 +17,6 @@ def all_phrases(one,two,three)
   puts one
   puts two
   puts three
-  one, two, three
+  one + two + three
 end
 
