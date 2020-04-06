@@ -13,8 +13,11 @@ def link
 end
 
 def all_phrases(one)
-puts mario
-puts link
-puts toadstool
+if one == toadstool
+  puts "Thank You Mario! But Our Princess Is In Another Castle!"
+  elsif one == link
+  puts "It's Dangerous To Go Alone! Take This."
+else
+  puts "It's-a me, Mario!"
 end
 
