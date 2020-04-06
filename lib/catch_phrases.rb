@@ -13,12 +13,6 @@ def link
 end
 
 def all_phrases(one)
-case one
-  when toadstool
-    puts "Thank You Mario! But Our Princess Is In Another Castle!"
-   when link
-  puts "It's Dangerous To Go Alone! Take This."
-when mario
   puts "It's-a me, Mario!"
 end
 
