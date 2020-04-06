@@ -13,8 +13,6 @@ def link
 end
 
 def all_phrases(yellow)
-phrase = 'Thank You Mario! But Our Princess Is In Another Castle!'
-yellow = phrase
-puts yellow
-yellow
+puts #{yellow}
 end
+
