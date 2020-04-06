@@ -12,7 +12,7 @@ def link
   puts "It's Dangerous To Go Alone! Take This."
 end
 
-def all_phrases(yellow)
+def all_phrases(yellow= 'phrase')
 phrase = "It's-a me, Mario!"
 yellow = phrase
 puts yellow
