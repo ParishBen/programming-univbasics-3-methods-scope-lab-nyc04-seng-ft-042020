@@ -15,4 +15,5 @@ end
 def all_phrases(argu)
 phrase = "It's-a me, Mario!"
 puts phrase
+phrase
 end
