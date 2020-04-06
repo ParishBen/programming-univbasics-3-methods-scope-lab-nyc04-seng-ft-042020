@@ -13,7 +13,7 @@ def link
 end
 
 def all_phrases(yellow)
- yellow = 'Thank You Mario! But Our Princess Is In Another Castle!'
+ yellow = toadstool
 puts yellow
 yellow
 end
