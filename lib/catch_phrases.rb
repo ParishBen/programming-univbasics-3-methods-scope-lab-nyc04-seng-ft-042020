@@ -11,4 +11,4 @@ end
 def link
   puts "It's Dangerous To Go Alone! Take This."
 end
-all_phrases(arg)
+all_phrases(argu)
