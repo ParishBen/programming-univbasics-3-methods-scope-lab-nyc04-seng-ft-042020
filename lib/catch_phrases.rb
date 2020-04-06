@@ -12,9 +12,9 @@ def link
   puts "It's Dangerous To Go Alone! Take This."
 end
 
-def all_phrases(one,two)
+def all_phrases(one,two,three)
   one ="It's-a me, Mario!"
-  puts one
-  one
+  puts one, two, three
+  one, two, three
 end
 
