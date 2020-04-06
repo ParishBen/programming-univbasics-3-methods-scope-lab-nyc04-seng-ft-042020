@@ -14,6 +14,5 @@ end
 
 def all_phrases(toadstool)
 puts toadstool
-toadstool
 end
 
