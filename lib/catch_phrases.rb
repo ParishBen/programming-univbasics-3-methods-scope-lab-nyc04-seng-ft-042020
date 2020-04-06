@@ -13,6 +13,7 @@ def link
 end
 
 def all_phrases(yellow)
-puts #{yellow}
+ #{yellow} = 'Thank You Mario! But Our Princess Is In Another Castle!'
+puts yellow
 end
 
