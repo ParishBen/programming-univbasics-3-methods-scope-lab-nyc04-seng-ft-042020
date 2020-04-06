@@ -15,5 +15,6 @@ end
 def all_phrases(one)
   one ="It's-a me, Mario!"
   puts one
+  one
 end
 
