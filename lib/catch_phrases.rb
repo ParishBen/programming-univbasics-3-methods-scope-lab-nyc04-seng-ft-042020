@@ -17,5 +17,4 @@ phrase = "It's-a me, Mario!"
 yellow = phrase
 puts yellow
 yellow
-
 end
