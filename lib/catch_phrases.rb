@@ -13,6 +13,7 @@ def link
 end
 
 def all_phrases(one)
-  puts "It's-a me, Mario!"
+  one ="It's-a me, Mario!"
+  puts one
 end
 
